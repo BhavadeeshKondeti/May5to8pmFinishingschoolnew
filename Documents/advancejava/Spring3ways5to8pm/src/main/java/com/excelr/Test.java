@@ -15,6 +15,9 @@ public class Test {
 	  //getBean() for Employee
 	Employee  e1=con.getBean("myOwnMethod",Employee.class);
 	System.out.println(e1);
+	
+	
+	System.out.println("How are github");
 
 	}
 
